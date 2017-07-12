@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jruby:jruby-core:9.1.7.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jruby/jruby-core/9.1.7.0/3f244274c6d0cfee0a1000ff4557d141d5a7ec69/jruby-core-9.1.7.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jruby/jruby-core/9.1.7.0/806b2b4c35095b5b233390acd2c59ce263c92cde/jruby-core-9.1.7.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

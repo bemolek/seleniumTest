@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.buschmais.xo:xo.api:0.8.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.buschmais.xo/xo.api/0.8.1/947454e1caa8573b3903f729545f7bb5e5831431/xo.api-0.8.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.buschmais.xo/xo.api/0.8.1/c6ebeed00a643b65ea3ff981a5d6e16223838c0b/xo.api-0.8.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
